@@ -1,0 +1,13 @@
+.loader_container {
+    display: flex;
+    height: 90vh;
+    justify-content: center;
+    align-items: center;
+    color:#305033;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    
+}

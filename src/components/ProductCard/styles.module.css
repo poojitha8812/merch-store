@@ -1,0 +1,45 @@
+.login_box body {
+	background: url("../../../public/store4.jpg") no-repeat center center fixed;
+	background-size: cover;
+	height: 100vh;
+}
+
+.login_box {
+	background-color: white;
+	max-width: 340px;
+	margin:10px;
+	position: relative;
+	top: 20px;
+	padding-bottom: 10px;
+	border-radius: 5px;
+    text-align: left;
+	
+}
+
+
+
+ .login_box button {
+	margin-top: 0px;
+    margin-left: 20px;
+	border: 0;
+	border-radius: 2px;
+	color: white;
+	padding: 10px;
+	font-weight: 400;
+	font-size: 0.7em;
+	letter-spacing: 1px;
+	background-color:  white;
+	cursor:pointer;
+	outline: none;
+    margin-bottom: 10px;
+}
+.login_box button:hover {
+	opacity: 0.7;
+	transition: 0.5s;
+}
+
+.login_box button:hover {
+	opacity: 0.7;
+	transition: 0.5s;
+}
+
